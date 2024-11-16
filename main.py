@@ -3,7 +3,7 @@ import google.generativeai as genai
 import streamlit as st  # Importa Streamlit per l'interfaccia
 
 # Configura la tua API key Gemini
-GOOGLE_API_KEY = "AIzaSyAEyjnSEt4p8ov_1JcgfLfOknu9Vye5wDs"
+GOOGLE_API_KEY = "API_KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 model = genai.GenerativeModel('gemini-pro')
