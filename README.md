@@ -27,7 +27,7 @@ To run this app locally, you need to have Python 3.x installed. Then, follow the
    git clone https://github.com/yourusername/what-if.git
    ```
 
-2**Install Dependencies:**
+2. **Install Dependencies:**
 Create a virtual environment and install the required libraries:
 
 ```bash
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
    ```
 
-3**Set Up Your Google Gemini API Key:**
+3. **Set Up Your Google Gemini API Key:**
 You'll need to set up your Google API key for Gemini. Replace the placeholder in the code with your actual API key:
 
 ```bash
@@ -46,7 +46,7 @@ You'll need to set up your Google API key for Gemini. Replace the placeholder in
 
    ```
 
-4**Run the App:**
+4. **Run the App:**
 
 ```bash
    streamlit run app.py
@@ -58,4 +58,4 @@ This will open the app in your browser at http://localhost:8501.
 ## Usage
 - Enter your two scenarios in the text boxes provided.
 - Click "Send" to submit your scenarios for analysis.
-- View the analysis, with each scenario displayed side by side, separated by a vertical line.
+- View the analysis, with each scenario displayed side by side.

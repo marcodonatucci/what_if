@@ -1,0 +1,17 @@
+Future Enhancements for the "What If?" App
+
+In the future, the "What If?" app will be enhanced with several new features aimed at improving the user experience and providing more personalized insights.
+
+1. **Graphical User Interface (GUI) with a Decision Tree**:
+   We plan to introduce a visual interface that will allow users to view a decision tree, representing the different choices they have made over time. This tree will show how each scenario relates to others and provide an easy way to track past decisions.
+   (NetworkX library)
+
+2. **Cloud Database Integration**:
+   A cloud-based database will be implemented to store the choices made by the user. This database will allow the app to maintain a history of decisions, enabling a more personalized experience as the app tracks the user's decision-making patterns over time.
+   (Firebase)
+
+3. **Data Analysis Model**:
+   A data analysis model will be introduced to analyze the choices made by the user and adapt the app's responses accordingly. This model will take into account the user's past decisions and influence the answers provided to future questions, ensuring that the analysis is more relevant to the user's ongoing decision-making journey.
+   (Py-torch)
+
+These features will work together to create a more dynamic, responsive, and personalized decision-making tool, enhancing the overall utility of the "What If?" app. Stay tuned for these exciting updates!
